@@ -1,4 +1,17 @@
 # Autonomous Vehicles Disengagement Reports Analysis
+## Project Structure
+```bash
+├── code
+│   └── autonomous_disengagement_analysis.ipynb
+├── data
+│   ├── 2018-19_AutonomousVehicleDisengagementReports(firsttimefilers).csv
+│   └── 2019AutonomousVehicleDisengagementReports.csv
+├── README.md
+└── figures
+    └── poster
+```
+
+--- 
 
 ## Overview
 This project analyzes and visualizes disengagement reports from the California Department of Motor Vehicles (DMV) for self-driving cars tested from 2018 to 2019. The main goal is to understand where the technology still struggles, identify trends, and gain insights that can guide improvements in autonomous vehicle (AV) systems.
@@ -59,17 +72,6 @@ These two CSV files are combined into a single DataFrame to have a more comprehe
 
 --- 
 
-## Project Structure
-```bash
-├── code
-│   └── autonomous_disengagement_analysis.ipynb
-├── data
-│   ├── 2018-19_AutonomousVehicleDisengagementReports(firsttimefilers).csv
-│   └── 2019AutonomousVehicleDisengagementReports.csv
-├── README.md
-└── figures
-    └── poster
-```
 
 ## Requirements
 - Python 3.x
