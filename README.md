@@ -1,7 +1,14 @@
 # Autonomous Vehicles Disengagement Reports Analysis
 
 ## Table of Contents
-
+## Table of Contents
+- [Project Structure](#project-structure)
+- [Overview](#overview)
+- [Data Source](#data-source)
+- [Features and Visualizations](#features-and-visualizations)
+- [Results and Conclusion](#results-and-conclusion)
+- [Acknowledgments](#acknowledgements)
+- [Requirements](#requirements)
 
 ---
 
