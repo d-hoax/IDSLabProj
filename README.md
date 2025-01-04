@@ -1,8 +1,7 @@
-# Autonomous Vehicles Disengagement Reports Analysis
+# [Autonomous Vehicles Disengagement Reports Analysis](https://github.com/d-hoax/IDSLabProj)
 
 ## Table of Contents
 - [Project Structure](#project-structure)
-- [Link To Repo](#link-to-repo)
 - [Overview](#overview)
 - [Data Source](#data-source)
 - [Features and Visualizations](#features-and-visualizations)
@@ -24,9 +23,6 @@
     └── poster
 ```
 
----
-
-## [Link to Repo](https://github.com/d-hoax/IDSLabProj)
 
 
 --- 
