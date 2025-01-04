@@ -26,8 +26,8 @@
 
 ---
 
-## Link to Repo:
-https://github.com/d-hoax/IDSLabProj
+## [Link to Repo](https://github.com/d-hoax/IDSLabProj)
+
 ---
 --- 
 
